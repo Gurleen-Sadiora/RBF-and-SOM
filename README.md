@@ -1,6 +1,6 @@
 # RBF-and-SOM
 Problem 3-
 
-![ScreenShot](https://postimg.cc/grHJqCWy][img]https://i.postimg.cc/grHJqCWy/Problem4.jpg)
+![ScreenShot](https://i.postimg.cc/Whp495NB/Problem3.jpg)
 
 
